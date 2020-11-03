@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "Some Practice For Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "author": "Tarrayna Smith",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarrayna/playing-with-nodejs.git"
+  },
+  "keywords": [
+    "practice",
+    "troubleshooting",
+    "learning"
+  ],
+  "bugs": {
+    "url": "https://github.com/Tarrayna/playing-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/Tarrayna/playing-with-nodejs#readme"
+}
